@@ -1,0 +1,1 @@
+{"name":"Local: logic","url":"d:\\Practice_python\\code\\practice\\logic.py","tests":[{"id":1652202259639,"input":"0 0 1 1","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Practice_python\\code\\practice\\logic.py","group":"local","local":true}

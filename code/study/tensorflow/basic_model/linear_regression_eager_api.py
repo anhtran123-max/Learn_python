@@ -26,7 +26,7 @@ W = tfe.Variable(np.random.randn())
 b = tfe.Variable(np.random.randn())
 
 
-# Linear regression (Wx + b)
+# Linear regression (Wx as+ b)
 def linear_regression(inputs):
     return inputs * W + b
 
